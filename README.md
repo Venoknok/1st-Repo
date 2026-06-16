@@ -1,4 +1,4 @@
 # 1st-Repo
 This is my first Git Repository.
 <br>
-Author Name - Mayank Modak 
+Author Name - Mayank (venoknok)
